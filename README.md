@@ -1,7 +1,7 @@
 # ddddd
 
 
-## :fa-user: Integrantes
+##:fa-user: Integrantes
 
 - ###### Biólogos
  ➔ Maria de los Ángeles del Cid García
