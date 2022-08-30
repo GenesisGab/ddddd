@@ -3,15 +3,15 @@
 
 ##:fa-user: Integrantes
 
-- ###### Biólogos
+- ######Biólogos
  ➔ Maria de los Ángeles del Cid García
 ➔ Joseline Johanna Quisque Rustrián 
 
-- ###### Comunicadores Gráficos
+- ######Comunicadores Gráficos
 ➔ Adriana Alejandra Velásquez Anlue
 ➔ Marilis Abigail Escobar Estrada
 
-- ###### Desarrolldoras
+- ######Desarrolldoras
 ➔ Natali Daniela Marroquín Garrido
 ➔ Génesis Gabriel Subuyuj Ramírez
 
