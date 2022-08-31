@@ -1,7 +1,7 @@
 # ddddd
 
 
- ##:fa-user:Integrantes
+ ## Integrantes
 
 
 
