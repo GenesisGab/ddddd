@@ -7,18 +7,28 @@
 
 - #### Bddd
  ➔ Maria de los Ángeles del Cid García
+ 
+ 
 ➔ Joseline Johanna Quisque Rustrián 
 
 
 
 
 - ###### Comunicadores Gráficos
+
+
 ➔ Adriana Alejandra Velásquez Anlue
+
+
 ➔ Marilis Abigail Escobar Estrada
 
 
 - ###### Desarrolldoras
+
+
 ➔ Natali Daniela Marroquín Garrido
+
+
 ➔ Génesis Gabriel Subuyuj Ramírez
 
 
